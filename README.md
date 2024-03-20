@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## 160/161 : 161.Adding Navigation to the App /161. Marking Active Routes
 
 ## 162. Fixing Page Reload Issues
+
+## 163/164/165 - 163. Child Routes: Challenge - 164. Adding Child Routing Together - 165. Configuring Route Parameters
