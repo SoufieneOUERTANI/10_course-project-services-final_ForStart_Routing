@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## 159. Setting Up Routes
 
 ## 160/161 : 161.Adding Navigation to the App /161. Marking Active Routes
+
+## 162. Fixing Page Reload Issues
