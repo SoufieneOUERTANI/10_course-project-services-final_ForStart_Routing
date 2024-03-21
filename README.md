@@ -35,3 +35,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## 163/164/165 - 163. Child Routes: Challenge - 164. Adding Child Routing Together - 165. Configuring Route Parameters
 
 ## 166/167 - 166. Passing Dynamic Parameters to Links - 167. Styling Active Recipe Items
+
+## 168/169 - 168. Adding Editing Routes / 169. Retrieving Route Parameters
+
